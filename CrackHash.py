@@ -43,6 +43,7 @@ for i in rfile:
 
     if Hashtxt.lower()==hashtxt:
         print "[+]  Hash Cracking  {0} :: {1} ".format(Hashtxt,i)
+        break
 
 
-__author__ = 'hp'
+__author__ = 'PikaChu'
