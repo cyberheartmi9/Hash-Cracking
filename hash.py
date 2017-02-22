@@ -11,4 +11,4 @@ class hashing:
 
 
 
-__author__ = 'hp'
+__author__ = 'PikaChu'
